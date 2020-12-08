@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" tvg-shift="-4"
+﻿#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" tvg-shift="4"
 #EXTINF:-1 group-title="Барнаул", Первый канал
 http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_1TV.m3u8
 #EXTINF:-1 group-title="Барнаул", Россия 1
