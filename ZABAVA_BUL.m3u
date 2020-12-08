@@ -1,0 +1,53 @@
+﻿#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" tvg-shift="-4"
+#EXTINF:-1 group-title="Барнаул", Первый канал
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_1TV.m3u8
+#EXTINF:-1 group-title="Барнаул", Россия 1
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="Барнаул", НТВ
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_NTV.m3u8
+#EXTINF:-1 group-title="Барнаул", Пятый канал
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_5TV.m3u8
+#EXTINF:-1 group-title="Барнаул", Россия-Культура
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="Барнаул", Россия-24
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="Барнаул", Карусель
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="Барнаул", ОТР
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_OTR.m3u8
+#EXTINF:-1 group-title="Барнаул", ТВЦ
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_TVC.m3u8
+#EXTINF:-1 group-title="Барнаул", РЕН ТВ
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_RENTV.m3u8
+#EXTINF:-1 group-title="Барнаул", СПАС
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_SPAS.m3u8
+#EXTINF:-1 group-title="Барнаул", СТС
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_STS.m3u8
+#EXTINF:-1 group-title="Барнаул", Домашний
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="Барнаул", ТВ3
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_TV3.m3u8
+#EXTINF:-1 group-title="Барнаул", Пятница!
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="Барнаул", Звезда
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="Барнаул", МИР
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_MIR.m3u8
+#EXTINF:-1 group-title="Барнаул", ТНТ
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_TNT.m3u8
+#EXTINF:-1 group-title="Барнаул", МУЗ ТВ
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_MUZTV_4.m3u8
+#EXTINF:-1 group-title="Барнаул", Катунь 24
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_KATUN24.m3u8
+#EXTINF:-1 group-title="Барнаул", Толк
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_TOLK.m3u8
+#EXTINF:-1 group-title="Барнаул", Че!
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_CHE.m3u8
+#EXTINF:-1 group-title="Барнаул", Ю
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_U.m3u8
+#EXTINF:-1 group-title="Барнаул", Disney Channel
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="Барнаул", ТНТ4
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_TNT4_4.m3u8
+#EXTINF:-1 group-title="Барнаул", 2x2
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_2X2_4.m3u8
