@@ -1,49 +1,49 @@
-﻿#EXTM3U url-tvg="http://tv.adslclub.ru/jtv.zip" tvg-shift=1
-#EXTINF:-1 tvg-name="Первый_канал" group-title="Барнаул", Первый канал
+﻿#EXTM3U url-tvg="http://epg.it999.ru/pp.xml.gz" tvg-shift="-4"
+#EXTINF:-1 group-title="Барнаул", Первый канал
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_4.m3u8
-#EXTINF:-1 tvg-name="Россия_(Нск)" group-title="Барнаул", Россия 1
+#EXTINF:-1 group-title="Барнаул", Россия 1
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 tvg-name="НТВ_(Нск)" tvg-shift=0 group-title="Барнаул", НТВ
+#EXTINF:-1 group-title="Барнаул", НТВ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_4.m3u8
-#EXTINF:-1 tvg-name="Петербург_-_5_канал" group-title="Барнаул", Пятый канал
+#EXTINF:-1 group-title="Барнаул", Пятый канал
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1 tvg-name="Культура_(Нск)" tvg-shift=-1 group-title="Барнаул", Россия-Культура
+#EXTINF:-1 group-title="Барнаул", Россия-Культура
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF:-1 tvg-name="Вести" group-title="Барнаул", Россия-24
+#EXTINF:-1 group-title="Барнаул", Россия-24
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 tvg-name="Бибигон" group-title="Барнаул", Карусель
+#EXTINF:-1 group-title="Барнаул", Карусель
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF:-1 tvg-name="ОТР" group-title="Барнаул", ОТР
+#EXTINF:-1 group-title="Барнаул", ОТР
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 tvg-name="ТВ_Центр_(Нск)" tvg-shift=-1 group-title="Барнаул", ТВЦ
+#EXTINF:-1 group-title="Барнаул", ТВЦ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1 tvg-name="РЕН_ТВ" group-title="Барнаул", РЕН ТВ
+#EXTINF:-1 group-title="Барнаул", РЕН ТВ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF:-1 tvg-name="Спас" group-title="Барнаул", СПАС
+#EXTINF:-1 group-title="Барнаул", СПАС
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 tvg-name="СТС_(Нск)" tvg-shift=0 group-title="Барнаул", СТС
+#EXTINF:-1 group-title="Барнаул", СТС
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS_4.m3u8
-#EXTINF:-1 tvg-name="Домашний" group-title="Барнаул", Домашний
+#EXTINF:-1 group-title="Барнаул", Домашний
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF:-1 tvg-name="ТВ3_(Нск)" tvg-shift=0 group-title="Барнаул", ТВ3
+#EXTINF:-1 group-title="Барнаул", ТВ3
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_4.m3u8
-#EXTINF:-1 tvg-name="MTV_(Нск)" tvg-shift=0 group-title="Барнаул", Пятница!
+#EXTINF:-1 group-title="Барнаул", Пятница!
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF:-1 tvg-name="Звезда" tvg-shift=0 group-title="Барнаул", Звезда
+#EXTINF:-1 group-title="Барнаул", Звезда
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF:-1 tvg-name="Мир" tvg-shift=0 group-title="Барнаул", МИР
+#EXTINF:-1 group-title="Барнаул", МИР
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_MIR_4.m3u8
-#EXTINF:-1 tvg-name="ТНТ_(Нск)" tvg-shift=0 group-title="Барнаул", ТНТ
+#EXTINF:-1 group-title="Барнаул", ТНТ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_4.m3u8
-#EXTINF:-1 tvg-name="МузТВ" group-title="Барнаул", МУЗ ТВ
+#EXTINF:-1 group-title="Барнаул", МУЗ ТВ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF:-1 tvg-name="ДТВ" group-title="Барнаул", Катунь 24
+#EXTINF:-1 group-title="Барнаул", Катунь 24
 http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_KATUN24.m3u8
-#EXTINF:-1 tvg-name="Ю_(Нск)" group-title="Барнаул", Толк
+#EXTINF:-1 group-title="Барнаул", Толк
 http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_TOLK.m3u8
-#EXTINF:-1 tvg-name="ДТВ" tvg-shift=-1 group-title="Барнаул", Че!
+#EXTINF:-1 group-title="Барнаул", Че!
 http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_CHE.m3u8
-#EXTINF:-1 tvg-name="Ю_(Нск)" tvg-shift=0 group-title="Барнаул", Ю
+#EXTINF:-1 group-title="Барнаул", Ю
 http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_U.m3u8
 #EXTINF:-1 group-title="Барнаул", Disney Channel
 http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_DISNEY.m3u8
