@@ -4,7 +4,7 @@ http://5.137.38.239:1234/udp/225.54.205.129:5000
 #EXTINF:0 tvg-id="Первый_канал" tvg-shift=5 tvg-logo="http://epg.it999.ru/img/983.png",Первый HD
 http://langamepp.com/chtst/F4839A621D8BF89206ED7FC408B4BE0AC6B3AC5A29BB8442B93DCA1588640CDB7F53230A79D08AE76B9822
 #EXTINF:-1 tvg-id="Россия_(Нск)" tvg-logo="http://epg.it999.ru/img/711.png", Россия 1
-http://5.137.38.239:1234/udp/225.54.205.130:5000
+http://5.128.21.216:81/udp/239.1.15.2:1234
 #EXTINF:-1 tvg-id="НТВ_(Нск)" tvg-shift=0 tvg-logo="http://epg.it999.ru/img/162.png", НТВ
 http://5.137.38.239:1234/udp/225.54.205.132:5000
 #EXTINF:-1 tvg-id="Спорт" tvg-logo="http://epg.it999.ru/img/2051.png", Матч ТВ
