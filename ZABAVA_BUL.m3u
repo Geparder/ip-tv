@@ -104,6 +104,8 @@ http://5.137.38.239:1234/udp/233.7.70.7:5000
 http://37.192.145.48:81/udp/239.1.20.43:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png", Наука 2.0
 http://94.230.240.12:8080/nauka2/index.m3u8
+#EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/2298.png",Загородная жизнь HD
+http://langamepp.com/chtst/2BC6613A79FAB7FD47DFD5063422C94919F657024DCACB2DF00F65D687F27798AB16DFEACD2A0A2DF70E5AD682F271999C16DCEBF592D3A635AAB87369
 
 #EXTINF:-1 group-title="Музыка" tvg-id="ТНТ_Music" tvg-logo="http://epg.it999.ru/img/680.png", ТНТ Music
 http://5.137.38.239:1234/udp/233.7.70.60:5000
