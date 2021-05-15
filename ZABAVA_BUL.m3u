@@ -10,7 +10,7 @@ http://dmitry-tv.ddns.net:60/hls/DVB-T2/CH_1TV_4.m3u8
 http://5.128.21.216:81/udp/239.1.15.20:1234
 #EXTINF:-1 aspect-ratio="16:9" tvg-shift=1 audio-track-num=1 tvg-id="Россия_(Нск)" tvg-logo="http://epg.it999.ru/img/711.png", Россия 1
 http://dmitry-tv.ddns.net:60/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 tvg-id="НТВ" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/162.png", НТВ
+#EXTINF:-1 tvg-id="НТВ_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/162.png", НТВ
 http://dmitry-tv.ddns.net:60/hls/DVB-T2/CH_NTV_4.m3u8
 #EXTINF:-1 tvg-id="Спорт" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2051.png", Матч ТВ
 http://dmitry-tv.ddns.net:60/hls/DVB-T2/CH_MATCHTV.m3u8
@@ -52,7 +52,7 @@ http://5.137.38.239:1234/udp/225.54.205.171:5000
 http://5.137.38.239:1234/udp/225.54.23.228:5000
 #EXTINF:-1 aspect-ratio="16:9" tvg-shift=2 audio-track-num=1 tvg-id="Россия_(Нск)" tvg-logo="http://epg.it999.ru/img/711.png", Россия 1 (+3)
 http://dmitry-tv.ddns.net:60/hls/DVB-T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1 tvg-id="НТВ" tvg-shift=2 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/162.png", НТВ (+3)
+#EXTINF:-1 tvg-id="НТВ_(Нск)" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/162.png", НТВ (+3)
 http://dmitry-tv.ddns.net:60/hls/DVB-T2/CH_NTV_3.m3u8
 
 #EXTINF:-1 group-title="Природа" tvg-shift=1 aspect-ratio="16:9" tvg-id="Discovery_Channel" tvg-logo="http://epg.it999.ru/img/325.png", Discovery Channel HD
