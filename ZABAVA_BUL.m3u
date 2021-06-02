@@ -60,21 +60,21 @@ http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 # #EXTINF:-1 tvg-id="Discovery_Channel" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel
 # http://5.137.38.239:1234/udp/233.7.70.12:5000
 #EXTINF:-1 tvg-id="National_Geographic" tvg-name="National_Geographic" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/102.png",National Geographic
-http://5.137.38.239:1234/udp/233.7.70.43:5000
+http://5.137.32.112:1234/udp/233.7.70.43:5000
 #EXTINF:-1 tvg-id="Nat_Geo_Wild" tvg-name="Nat_Geo_Wild" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/223.png", Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="National_Geographic" tvg-name="National_Geographic" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/3733.png", National Geographic HD
 http://213.59.136.29:55555/udp/239.254.2.136:1234
 #EXTINF:-1 tvg-id="Моя_Планета" tvg-name="Моя_Планета" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/675.png", Моя планета
-http://5.137.38.239:1234/udp/233.7.70.132:5000
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:0 audio-track="rus" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/675.png",Планета HD
-http://langamepp.com/chtst/BA796B67B3F1365F252E31C35B0D07AC88495D5F87C14A8F9AFE8A13EBDDBA7C0FA8E9B7039952
+http://31.134.132.245:8080/planeta_hd/tracks-v1a1/mono.m3u8?media=941057740302
 #EXTINF:0 audio-track="rus" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/3731.png",Animal Planet
-http://langamepp.com/chtst/66EA2B5500457B39365CF865051DE9B154DA1D6D3475075858359504696D85D0088F5F
+http://5.137.195.85:1234/udp/225.54.23.60:5000
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3731.png" tvg-shift=1 aspect-ratio="16:9",Animal Planet HD
-http://5.128.21.216:81/udp/239.1.17.16:1234
+http://5.137.32.112:1234/udp/225.54.23.60:5000
 #EXTINF:-1 tvg-id="Zooпарк" tvg-name="Zooпарк" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/367.png", Zooпарк
-http://5.137.38.239:1234/udp/233.7.70.11:5000
+http://5.137.32.112:1234/udp/225.54.23.61:5000
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png" tvg-shift=1 aspect-ratio="16:9", Приключения HD
 http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:-1 tvg-shift=1 aspect-ratio="16:9", Под Водой FHD
@@ -85,18 +85,20 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 http://5.128.21.216:81/udp/239.1.20.28:1234
 
 #EXTINF:0 group-title="Авто" audio-track="rus" tvg-logo="http://epg.it999.ru/img/153.png" tvg-shift=1 aspect-ratio="16:9", Авто плюс
-http://langamepp.com/chtst/EBB480565C54355A0BF0042D6B3C4F41D984B66E6864498ABB20B6FCE9ECF19154643B87D285B40179852F1E054812
+http://185.74.7.220:8080/avtoplyus/mpegts
 #EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/2008.png" tvg-shift=1 aspect-ratio="16:9",Авто 24
-http://langamepp.com/chtst/D6006CA8558F4460F571FBE6A4D7AE42E4305A9061BF38B045A1493726071070E25B1EDD34E619
+http://195.49.206.244:90/Avto24/index.m3u8
 #EXTINF:-1 tvg-id="Drive" tvg-name="Drive" tvg-logo="http://epg.it999.ru/img/2443.png" tvg-shift=1 aspect-ratio="16:9", Драйв
 http://5.137.38.239:1234/udp/233.7.70.8:5000
 
 #EXTINF:-1 group-title="Рыбалка и охота" tvg-id="Охота_и_рыбалка" tvg-name="Охота_и_рыбалка" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2419.png", Охота и рыбалка
-http://5.137.38.239:1234/udp/233.7.70.44:5000
+http://5.137.195.85:1234/udp/233.7.70.44:5000
 #EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/2483.png" tvg-shift=1 aspect-ratio="16:9", Дикая охота HD
-http://langamepp.com/chtst/1D9DB139782E3136C72BF3A2386B75E32FAD87014C1E4DE673FB4B7282BBC532924D0FE8FDFE8FE745FB43CA5C30079670E8EC
+http://langamepp.com/chtst/http://91.221.201.2:7100/play/a00n/index.m3u8
 #EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/2484.png" tvg-shift=1 aspect-ratio="16:9",Дикая рыбалка HD
-http://langamepp.com/chtst/8A1E77F87B2121085BD5BEA8724D6C8FB82E41C04F115DD8EF050678C89DDC5E05CFF729F0F190D8EB050578C89DDCE7EE
+http://langamepp.com/chtst/http://91.221.201.2:7100/play/a00l/index.m3u8
+#EXTINF:-1 tvg-shift=1 aspect-ratio="16:9", Диалоги о рыбалке
+http://94.232.127.13/z3/dialogiorybalke/stream.m3u8
 #EXTINF:-1 tvg-shift=1 aspect-ratio="16:9",Рыболов
 http://5.128.21.216:81/udp/239.1.20.26:1234
 # #EXTINF:-1,Дикая рыбалка HD
