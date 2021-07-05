@@ -3,45 +3,45 @@
 # Плейлисты https://langamepp.com/iptv/playlists
 
 #EXTINF:-1 group-title="Региональные" tvg-shift=1 tvg-id="Первый_канал" tvg-name="Первый_канал" aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/146.png", Первый канал
-http://5.137.106.171:1234/udp/225.54.205.129:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_1TV_4.m3u8
 # #EXTINF:0 tvg-id="Первый_канал" tvg-shift=5 tvg-logo="http://epg.it999.ru/img/983.png",Первый HD
 # http://langamepp.com/chtst/F4839A621D8BF89206ED7FC408B4BE0AC6B3AC5A29BB8442B93DCA1588640CDB7F53230A79D08AE76B9822
 #EXTINF:-1 aspect-ratio="16:9" tvg-shift=1 audio-track-num=1 tvg-id="Россия_(Нск)" tvg-name="Россия_(Нск)" tvg-logo="http://epg.it999.ru/img/711.png", Россия 1
-http://5.137.106.171:1234/udp/225.54.205.130:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 tvg-id="НТВ_(Нск)" tvg-name="НТВ_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/162.png", НТВ
-http://5.137.106.171:1234/udp/225.54.205.132:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_NTV_4.m3u8
 #EXTINF:-1 tvg-id="Спорт" tvg-name="Спорт" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2051.png", Матч ТВ
-http://5.137.106.171:1234/udp/225.54.205.131:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_MATCHTV.m3u8
 #EXTINF:-1 tvg-id="Петербург_-_5_канал" tvg-name="Петербург_-_5_канал" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/427.png", Пятый канал
-http://5.137.106.171:1234/udp/225.54.205.133:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_5TV_4.m3u8
 #EXTINF:-1 tvg-id="Культура_(Нск)" tvg-name="Культура_(Нск)" tvg-shift=-1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/187.png", Россия-Культура
-http://5.137.106.171:1234/udp/225.54.205.134:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_RUSSIAK_4.m3u8
 #EXTINF:-1 tvg-id="Вести" tvg-name="Вести" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/1683.png", Россия-24
-http://5.137.106.171:1234/udp/225.54.205.135:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 tvg-id="Бибигон" tvg-name="Бибигон" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/740.png", Карусель
-http://5.137.106.171:1234/udp/225.54.205.136:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_KARUSEL_4.m3u8
 #EXTINF:-1 tvg-id="ОТР"tvg-name="ОТР"  tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/1000.png", ОТР
-http://5.137.106.171:1234/udp/225.54.205.137:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_OTR.m3u8
 #EXTINF:-1 tvg-id="ТВ_Центр_(Нск)" tvg-name="ТВ_Центр_(Нск)" tvg-shift=-1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/649.png", ТВЦ
-http://5.137.106.171:1234/udp/225.54.205.138:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_TVC_4.m3u8
 #EXTINF:-1 tvg-id="РЕН_ТВ" tvg-name="РЕН_ТВ" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/18.png", РЕН ТВ
-http://5.137.106.171:1234/udp/225.54.205.139:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_RENTV_4.m3u8
 #EXTINF:-1 tvg-id="Спас" tvg-name="Спас" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2141.png", СПАС
-http://5.137.106.171:1234/udp/225.54.205.140:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 tvg-id="СТС_(Нск)" tvg-name="СТС_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/79.png", СТС
-http://5.137.106.171:1234/udp/225.54.205.141:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_STS_4.m3u8
 #EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/304.png", Домашний
-http://5.137.106.171:1234/udp/225.54.205.142:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
 #EXTINF:-1 tvg-id="ТВ3_(Нск)" tvg-name="ТВ3_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/698.png", ТВ3
-http://5.137.106.171:1234/udp/225.54.205.143:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_TV3_4.m3u8
 #EXTINF:-1 tvg-id="MTV_(Нск)" tvg-name="MTV_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/1003.png", Пятница!
-http://5.137.106.171:1234/udp/225.54.205.144:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_FRIDAY_4.m3u8
 #EXTINF:-1 tvg-id="Звезда" tvg-name="Звезда" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/405.png", Звезда
-http://5.137.106.171:1234/udp/225.54.205.145:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 tvg-id="Мир" tvg-name="Мир" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/726.png", МИР
-http://5.137.106.171:1234/udp/225.54.205.146:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_MIR_4.m3u8
 #EXTINF:-1 tvg-id="ТНТ_(Нск)" tvg-name="ТНТ_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/353.png", ТНТ
-http://5.137.106.171:1234/udp/225.54.205.147:5000
+http://dmitry-tv.ml/hls/DVB-T2/CH_TNT_4.m3u8
 #EXTINF:-1 tvg-id="ДТВ" tvg-name="ДТВ" tvg-shift=-1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/1598.png", Че!
 http://5.137.106.171:1234/udp/225.54.223.211:5000
 #EXTINF:-1 tvg-id="Ю_(Нск)" tvg-name="Ю_(Нск)" tvg-shift=0 aspect-ratio="16:9", Ю
@@ -131,7 +131,7 @@ http://5.137.38.239:1234/udp/233.7.70.62:5000
 #EXTINF:-1 tvg-id="Ru_TV" tvg-name="Ru_TV" tvg-logo="http://epg.it999.ru/img/2378.png" tvg-shift=1 aspect-ratio="16:9", RuTV
 http://5.137.38.239:1234/udp/233.7.70.63:5000
 #EXTINF:-1 tvg-id="МузТВ" tvg-name="МузТВ" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2991.png", МУЗ ТВ
-http://dmitry-tv.ddns.net:60/hls/DVB-T2/CH_MUZTV_4.m3u8
+http://dmitry-tv.ml/hls/DVB-T2/CH_MUZTV_4.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="Jetix" tvg-name="Jetix" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/3707.png", Disney Channel
 http://5.137.38.239:1234/udp/225.54.205.174:5000
