@@ -63,6 +63,8 @@ http://188.113.190.12/88/tracks-v1a1/index.m3u8?token=gelow74
 http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="Nat_Geo_Wild" tvg-name="Nat_Geo_Wild" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/223.png", Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 Nat Geo Wild HD
+http://127.0.0.1:8621/ace/getstream?url=http://188.72.209.125/acelive/Nat_Geo_Wild_HD.acelive
 #EXTINF:-1 tvg-id="Моя_Планета" tvg-name="Моя_Планета" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/675.png", Моя планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:0 audio-track="rus" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/675.png",Планета HD
