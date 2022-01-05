@@ -1,17 +1,15 @@
-﻿#EXTM3U url-tvg="http://tv.adslclub.ru/jtv.zip" tvg-shift=1
+#EXTM3U url-tvg="http://tv.adslclub.ru/jtv.zip" tvg-shift=1
 # Источник Новосибирск http://iptvsmotri.ru/?page_id=24
 # Плейлисты https://langamepp.com/iptv/playlists
 
 #EXTINF:-1 group-title="Региональные" tvg-shift=1 tvg-id="Первый_канал" tvg-name="Первый_канал" aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/146.png", Первый канал
-http://dmitry-tv.ml/hls/zabava/region/BUL/CH_1TV.m3u8
+http://dmitry-tv.ml/hls/DVB-T2/CH_1TV_4.m3u8
 # #EXTINF:0 tvg-id="Первый_канал" tvg-shift=5 tvg-logo="http://epg.it999.ru/img/983.png",Первый HD
 # http://langamepp.com/chtst/F4839A621D8BF89206ED7FC408B4BE0AC6B3AC5A29BB8442B93DCA1588640CDB7F53230A79D08AE76B9822
-#EXTINF:-1,Первый канал (Барнаул)
-http://dmitry-tv.ml/hls/zabava/region/BUL/CH_1TV.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-shift=1 audio-track-num=1 tvg-id="Россия_(Нск)" tvg-name="Россия_(Нск)" tvg-logo="http://epg.it999.ru/img/711.png", Россия 1
-http://dmitry-tv.ml/hls/zabava/region/BUL/CH_ROSSIA1.m3u8
+http://dmitry-tv.ml/hls/DVB-T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 tvg-id="НТВ_(Нск)" tvg-name="НТВ_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/162.png", НТВ
-http://dmitry-tv.ml/hls/zabava/region/BUL/CH_NTV.m3u8
+http://dmitry-tv.ml/hls/DVB-T2/CH_NTV_4.m3u8
 #EXTINF:-1 tvg-id="Спорт" tvg-name="Спорт" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2051.png", Матч ТВ
 http://dmitry-tv.ml/hls/DVB-T2/CH_MATCHTV.m3u8
 #EXTINF:-1 tvg-id="Петербург_-_5_канал" tvg-name="Петербург_-_5_канал" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/427.png", Пятый канал
