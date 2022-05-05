@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://tv.adslclub.ru/jtv.zip" tvg-shift=1
+#EXTM3U url-tvg="http://tv.adslclub.ru/jtv.zip" tvg-shift=1 m3uautoload=1
 # Источник Новосибирск http://iptvsmotri.ru/?page_id=24
 # Плейлисты https://langamepp.com/iptv/playlists
 
