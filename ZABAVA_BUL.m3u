@@ -3,61 +3,61 @@
 # Плейлисты https://langamepp.com/iptv/playlists
 
 #EXTINF:-1 group-title="Региональные" tvg-shift=1 tvg-id="Первый_канал" tvg-name="Первый_канал" aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/146.png", Первый канал
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_1TV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_1TV.m3u8
 # #EXTINF:0 tvg-id="Первый_канал" tvg-shift=5 tvg-logo="http://epg.it999.ru/img/983.png",Первый HD
 # http://langamepp.com/chtst/F4839A621D8BF89206ED7FC408B4BE0AC6B3AC5A29BB8442B93DCA1588640CDB7F53230A79D08AE76B9822
 #EXTINF:-1 aspect-ratio="16:9" tvg-shift=1 audio-track-num=1 tvg-id="Россия_(Нск)" tvg-name="Россия_(Нск)" tvg-logo="http://epg.it999.ru/img/711.png", Россия 1
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_ROSSIA1.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_ROSSIA1.m3u8
 #EXTINF:-1 tvg-id="НТВ_(Нск)" tvg-name="НТВ_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/162.png", НТВ
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_NTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_NTV.m3u8
 #EXTINF:-1 tvg-id="Спорт" tvg-name="Спорт" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2051.png", Матч ТВ
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_MATCHTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_MATCHTV.m3u8
 #EXTINF:-1 tvg-id="Петербург_-_5_канал" tvg-name="Петербург_-_5_канал" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/427.png", Пятый канал
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_5TV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_5TV.m3u8
 #EXTINF:-1 tvg-id="Культура_(Нск)" tvg-name="Культура_(Нск)" tvg-shift=-1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/187.png", Россия-Культура
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_ROSSIAK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_ROSSIAK.m3u8
 #EXTINF:-1 tvg-id="Вести" tvg-name="Вести" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/1683.png", Россия-24
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_ROSSIA24.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_ROSSIA24.m3u8
 #EXTINF:-1 tvg-id="Бибигон" tvg-name="Бибигон" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/740.png", Карусель
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_KARUSEL.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_KARUSEL.m3u8
 #EXTINF:-1 tvg-id="ОТР"tvg-name="ОТР"  tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/1000.png", ОТР
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_OTR.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_OTR.m3u8
 #EXTINF:-1 tvg-id="ТВ_Центр_(Нск)" tvg-name="ТВ_Центр_(Нск)" tvg-shift=-1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/649.png", ТВЦ
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_TVC.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_TVC.m3u8
 #EXTINF:-1 tvg-id="РЕН_ТВ" tvg-name="РЕН_ТВ" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/18.png", РЕН ТВ
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_RENTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_RENTV.m3u8
 #EXTINF:-1 tvg-id="Спас" tvg-name="Спас" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2141.png", СПАС
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_SPAS.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_SPAS.m3u8
 #EXTINF:-1 tvg-id="СТС_(Нск)" tvg-name="СТС_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/79.png", СТС
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_STS.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_STS.m3u8
 #EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/304.png", Домашний
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_DOMASHNIY.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-id="ТВ3_(Нск)" tvg-name="ТВ3_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/698.png", ТВ3
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_TV3.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_TV3.m3u8
 #EXTINF:-1 tvg-id="MTV_(Нск)" tvg-name="MTV_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/1003.png", Пятница!
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_FRIDAY.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="Звезда" tvg-name="Звезда" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/405.png", Звезда
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_ZVEZDA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_ZVEZDA.m3u8
 #EXTINF:-1 tvg-id="Мир" tvg-name="Мир" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/726.png", МИР
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_MIR.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_MIR.m3u8
 #EXTINF:-1 tvg-id="ТНТ_(Нск)" tvg-name="ТНТ_(Нск)" tvg-shift=0 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/353.png", ТНТ
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_TNT.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_TNT.m3u8
 #EXTINF:-1 tvg-id="ДТВ" tvg-name="ДТВ" tvg-shift=-1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/1598.png", Че!
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_CHE.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_CHE.m3u8
 #EXTINF:-1 tvg-id="Ю_(Нск)" tvg-name="Ю_(Нск)" tvg-shift=0 aspect-ratio="16:9", Ю
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_U.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_U.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img2/5705.png", Катунь 24
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_KATUN24.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_KATUN24.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/2473.png", Толк
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_TOLK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_TOLK.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-shift=1 aspect-ratio="16:9", ТНТ4
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_TNT4_4.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_TNT4_4.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-shift=1 audio-track-num=1 tvg-id="Первый_канал" tvg-name="Первый_канал" tvg-logo="http://epg.it999.ru/img/983.png", Первый HD
 http://5.128.21.216:81/udp/239.1.15.20:1234
 #EXTINF:-1 aspect-ratio="16:9" tvg-shift=2 audio-track-num=1 tvg-id="Россия_(Нск)" tvg-name="Россия_(Нск)" tvg-logo="http://epg.it999.ru/img/711.png", Россия 1 (+3)
-http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_ROSSIA1.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_ROSSIA1.m3u8
 #EXTINF:-1 tvg-id="НТВ_(Нск)" tvg-name="НТВ_(Нск)" tvg-shift=1 aspect-ratio="16:9" tvg-logo="http://epg.it999.ru/img/162.png", НТВ (+3)
-http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_NTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_NTV.m3u8
 
 #EXTINF:-1 group-title="Природа" tvg-shift=1 aspect-ratio="16:9" tvg-id="Discovery_Channel" tvg-name="Discovery_Channel" tvg-logo="http://epg.it999.ru/img/325.png", Discovery Channel HD
 http://188.113.190.12/88/tracks-v1a1/index.m3u8?token=gelow74
